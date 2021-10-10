@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Mumuki - Autoexpansor de pistas
+// @name         Mumuki - Auto expansor de pistas
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @description  Script de Tampermonkey para auto expandir las pistas en https://mumuki.io de forma automática.
-// @author       You
+// @author       MumukiResuelto
 // @match        https://mumuki.io/central/exercises/*
 // @icon         https://www.google.com/s2/favicons?domain=mumuki.io
 // @grant        none
