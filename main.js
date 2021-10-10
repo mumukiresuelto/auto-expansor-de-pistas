@@ -21,4 +21,4 @@ function expandir() {
 expandir()
 setInterval(function() {
     expandir()
-}, 1000);
+}, 1000)
